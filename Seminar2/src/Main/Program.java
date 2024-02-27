@@ -14,7 +14,6 @@ public class Program {
 		AplicantReader angajatReader = new AngajatReader("angajati.txt");
 
 		try {
-
 			listaAngajati = angajatReader.read();
 			for(Aplicant angajat:listaAngajati)
 				System.out.println(angajat.toString());
