@@ -4,19 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="[main] Inceput seminar 2">
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/readers/classes/AngajatReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/readers/classes/ElevReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/readers/classes/StudentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/readers/interfaces/AplicantReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/angajati.txt" beforeDir="false" afterPath="$PROJECT_DIR$/angajati.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/elevi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/elevi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/elevinoi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/elevinoi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/src/cts/s02/principii_clean_code/clase/Angajat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar2/src/clase/Angajat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/src/cts/s02/principii_clean_code/clase/Aplicant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar2/src/clase/Aplicant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/src/cts/s02/principii_clean_code/clase/Elev.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar2/src/clase/Elev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/src/cts/s02/principii_clean_code/clase/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar2/src/clase/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/src/cts/s02/principii_clean_code/clase/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/src/cts/s02/principii_clean_code/main/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar2/src/Main/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/studenti.txt" beforeDir="false" afterPath="$PROJECT_DIR$/studenti.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ch7Cwbnm202Rv2vGUhtvQvgTmr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,9 +55,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/CTS/SeminarCTS/Seminar2/src",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seminar2/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1708551834158</updated>
     </task>
+    <task id="LOCAL-00001" summary="[main] Inceput seminar 2">
+      <created>1709039010348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709039010348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[main] Inceput seminar 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="[main] Inceput seminar 2" />
   </component>
 </project>
