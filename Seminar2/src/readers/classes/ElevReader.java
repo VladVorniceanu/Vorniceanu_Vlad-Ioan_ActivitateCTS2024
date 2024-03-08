@@ -2,7 +2,6 @@ package readers.classes;
 
 import clase.Aplicant;
 import clase.Elev;
-import clase.Student;
 import readers.interfaces.AplicantReader;
 
 import java.io.File;
@@ -31,7 +30,6 @@ public class ElevReader extends AplicantReader {
             aplicant.setTutore(tutore);
             elevi.add(aplicant);
         }
-
         input.close();
         return elevi;
     }

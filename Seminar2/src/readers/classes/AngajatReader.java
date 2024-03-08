@@ -2,7 +2,6 @@ package readers.classes;
 
 import clase.Angajat;
 import clase.Aplicant;
-import clase.Elev;
 import readers.interfaces.AplicantReader;
 
 import java.io.File;
