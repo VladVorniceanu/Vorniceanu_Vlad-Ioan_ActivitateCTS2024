@@ -4,43 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="[refactoring] Variables' name change - Seminar2 Module">
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/FactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Asistent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Brancardier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Factory/FabricaAsistent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Factory/FabricaBrancardier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Factory/FabricaInfirmier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Factory/FabricaMedic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Factory/FabricaPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Infirmier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/FactoryMethod/src/Classes/PersonalSpital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Classes/Asistent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Classes/Brancardier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Classes/FabricaPersonal/FabricaPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Classes/FabricaPersonal/TipPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Classes/Infirmier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Classes/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Classes/PersonalSpital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/SimpleFactory/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Seminar3-Singleton/BazaDeDate/Classes/ConexiuneBazaDeDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Seminar3-Singleton/BazaDeDate/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Seminar3-Singleton/SustinereExamene/Classes/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Seminar3-Singleton/SustinereExamene/Classes/SustinereExamen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Seminar3-Singleton/SustinereExamene/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Seminar3/BazaDeDate/Classes/ConexiuneBazaDeDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Seminar3/BazaDeDate/main/Main.class" afterDir="false" />
+    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="[S4] Seminar 4 final">
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.1/A.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.1/src/Builder/classes/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.1/src/Builder/classes/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.1/src/Builder/classes/PacientBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.1/src/Builder_v2/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.1/src/Builder_v2/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.4/A.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.4/src/Classes/Reteta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.4/src/Classes/RetetaAbstracta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.4/src/Classes/RetetaCreme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/A.4/untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Seminar2/clase/Angajat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar2/clase/Angajat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Seminar2/clase/Aplicant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar2/clase/Aplicant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Seminar2/clase/Elev.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar2/clase/Elev.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Seminar2/clase/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar2/clase/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Seminar2/readers/classes/AngajatReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar2/readers/classes/AngajatReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Seminar2/readers/classes/ElevReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar2/readers/classes/ElevReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Seminar2/readers/classes/StudentReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar2/readers/classes/StudentReader.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +44,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="3706fc2c-cfb7-4923-aeb8-d5fb772d62b7" />
+        <option name="accountId" value="32bdfa5b-1ffb-4ad3-a02d-9b5832d4e0cc" />
         <option name="url" value="git@github.com:VladVorniceanu/Vorniceanu_Vlad-Ioan_ActivitateCTS2024.git" />
       </UrlAndAccount>
     </option>
@@ -91,6 +68,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.main.Main.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -118,6 +96,7 @@
       <recent name="$PROJECT_DIR$/Seminar2/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seminar5" />
       <recent name="$PROJECT_DIR$/Seminar4_SimpleFactory/SimpleFactory" />
       <recent name="$PROJECT_DIR$/Seminar3-Singleton" />
       <recent name="$PROJECT_DIR$" />
@@ -165,6 +144,8 @@
       <updated>1708551834158</updated>
       <workItem from="1710246524146" duration="179000" />
       <workItem from="1710248810827" duration="3988000" />
+      <workItem from="1710258389840" duration="297000" />
+      <workItem from="1710853540918" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="[main] Inceput seminar 2">
       <created>1709039010348</created>
@@ -215,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709876482679</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[S4] Seminar 4 final">
+      <option name="closed" value="true" />
+      <created>1710258523442</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710258523442</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +227,7 @@
     <MESSAGE value="[main] FINAL seminar 2" />
     <MESSAGE value="[main] FINAL seminar 3" />
     <MESSAGE value="[refactoring] Variables' name change - Seminar2 Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="[refactoring] Variables' name change - Seminar2 Module" />
+    <MESSAGE value="[S4] Seminar 4 final" />
+    <option name="LAST_COMMIT_MESSAGE" value="[S4] Seminar 4 final" />
   </component>
 </project>
