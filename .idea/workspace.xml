@@ -4,33 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Final seminar 8">
-      <change afterPath="$PROJECT_DIR$/Seminar8/Flyweight-E10/Flyweight-E10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Flyweight-E10/src/Classes/Caracteristici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Flyweight-E10/src/Classes/FabricaFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Flyweight-E10/src/Classes/IFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Flyweight-E10/src/Classes/Pozitie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Flyweight-E10/src/Classes/Spectator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Proxy-E8/Proxy-E8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Proxy-E8/src/Clase/IVanzare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Proxy-E8/src/Clase/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Proxy-E8/src/Clase/ProxyGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Proxy-E8/src/Clase/ProxyVarsta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8/Proxy-E8/src/Clase/VanzareBilet.java" afterDir="false" />
+    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Final seminar 9">
+      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/Observer-E12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Abonat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/SalaDeSport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Subiect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Vecini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/Strategy-E11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/IVerificator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/Portar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/VerificatorPeluza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/VerificatorTribuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/VerificatorVIP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A7_Decorator/A7_Decorator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/A7_Decorator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A7_Decorator/src/Clase/AplicatieMobila.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Clase/AplicatieMobila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A7_Decorator/src/Clase/DecoratorAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Clase/DecoratorAbstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A7_Decorator/src/Clase/DiagnosticConcret.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Clase/DiagnosticConcret.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A7_Decorator/src/Clase/IDiagnosticAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Clase/IDiagnosticAbstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A7_Decorator/src/Clase/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Clase/Website.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A7_Decorator/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A8_Composite/A8_Composite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A8_Composite/A8_Composite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A8_Composite/src/clase/Departament.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A8_Composite/src/clase/Departament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A8_Composite/src/clase/Sectie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A8_Composite/src/clase/Sectie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A8_Composite/src/clase/StructuraAbstracta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A8_Composite/src/clase/StructuraAbstracta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/A8_Composite/src/program/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A8_Composite/src/program/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,11 +103,11 @@
       <recent name="$PROJECT_DIR$/Seminar2/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seminar9" />
       <recent name="$PROJECT_DIR$/Seminar8" />
       <recent name="$PROJECT_DIR$/Test1_Practice" />
       <recent name="$PROJECT_DIR$/Seminar5" />
       <recent name="$PROJECT_DIR$/Seminar4_SimpleFactory/SimpleFactory" />
-      <recent name="$PROJECT_DIR$/Seminar3-Singleton" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Classes" />
@@ -171,7 +159,9 @@
       <workItem from="1711441610480" duration="4861000" />
       <workItem from="1711465148131" duration="109000" />
       <workItem from="1712664195018" duration="3846000" />
-      <workItem from="1713269195937" duration="4530000" />
+      <workItem from="1713269195937" duration="4633000" />
+      <workItem from="1713282993061" duration="110000" />
+      <workItem from="1713874039508" duration="3598000" />
     </task>
     <task id="LOCAL-00001" summary="[main] Inceput seminar 2">
       <created>1709039010348</created>
@@ -270,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712667996055</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Final seminar 9">
+      <option name="closed" value="true" />
+      <created>1713273834980</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713273834980</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +296,7 @@
     <MESSAGE value="Pregatire pentru test" />
     <MESSAGE value="Finish studying for test" />
     <MESSAGE value="Final seminar 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final seminar 8" />
+    <MESSAGE value="Final seminar 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final seminar 9" />
   </component>
 </project>
