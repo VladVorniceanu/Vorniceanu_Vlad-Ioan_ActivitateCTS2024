@@ -24,7 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/State-A13/State-A13.iml" filepath="$PROJECT_DIR$/Seminar10/State-A13/State-A13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9/Strategy-E11/Strategy-E11.iml" filepath="$PROJECT_DIR$/Seminar9/Strategy-E11/Strategy-E11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Template-A14/Template-A14.iml" filepath="$PROJECT_DIR$/Seminar10/Template-A14/Template-A14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1_Practice/Test1_Practice.iml" filepath="$PROJECT_DIR$/Test1_Practice/Test1_Practice.iml" />
     </modules>
   </component>

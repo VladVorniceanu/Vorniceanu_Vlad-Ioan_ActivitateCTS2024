@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Final seminar 9">
-      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/Observer-E12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Abonat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/SalaDeSport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Subiect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Observer-E12/src/Classes/Vecini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/Strategy-E11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/IVerificator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/Portar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/VerificatorPeluza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/VerificatorTribuna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9/Strategy-E11/src/Classes/VerificatorVIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10/State-A13/State-A13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10/State-A13/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/Template-A14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/src/Classes/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/src/Classes/SpitalPublic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/src/Classes/Template.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -103,11 +97,11 @@
       <recent name="$PROJECT_DIR$/Seminar2/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seminar10" />
+      <recent name="$PROJECT_DIR$/Seminar10/State-A13/src" />
       <recent name="$PROJECT_DIR$/Seminar9" />
       <recent name="$PROJECT_DIR$/Seminar8" />
       <recent name="$PROJECT_DIR$/Test1_Practice" />
-      <recent name="$PROJECT_DIR$/Seminar5" />
-      <recent name="$PROJECT_DIR$/Seminar4_SimpleFactory/SimpleFactory" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Classes" />
@@ -161,7 +155,10 @@
       <workItem from="1712664195018" duration="3846000" />
       <workItem from="1713269195937" duration="4633000" />
       <workItem from="1713282993061" duration="110000" />
-      <workItem from="1713874039508" duration="3598000" />
+      <workItem from="1713874039508" duration="4172000" />
+      <workItem from="1715175868499" duration="1785000" />
+      <workItem from="1715177663964" duration="919000" />
+      <workItem from="1715178598010" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="[main] Inceput seminar 2">
       <created>1709039010348</created>
@@ -268,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713273834980</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Final seminar 9">
+      <option name="closed" value="true" />
+      <created>1713877955335</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713877955335</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
