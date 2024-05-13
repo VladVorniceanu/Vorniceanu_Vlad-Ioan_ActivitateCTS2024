@@ -8,6 +8,7 @@ public class Main {
         diagnostic.printeazaDiagnostic();
 
         DecoratorAbstract decorator = new AplicatieMobila(diagnostic);
+        decorator.printeazaDiagnostic();
         decorator.afisareOnline();
 
         DecoratorAbstract decorator2 = new Website(diagnostic);

@@ -4,15 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Final seminar 9">
-      <change afterPath="$PROJECT_DIR$/Seminar10/State-A13/State-A13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10/State-A13/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/Template-A14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/src/Classes/Pacient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/src/Classes/SpitalPublic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10/Template-A14/src/Classes/Template.java" afterDir="false" />
+    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Final seminar 10">
+      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/CrediteLeasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/FrameworkCrediteLeasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/ICrediteLeasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/Facade-D7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/src/classes/FacadeCreareCont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/src/classes/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/Adapter-A5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/AdapterMedicamente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/IMedicamentFarmacie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/IMedicamentSpital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/MedicamentFarmacie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/MedicamentSpital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/Adapter-B5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/AdapterSoftNouBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/Factura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/FacturaBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/FacturaBucatarie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/ISoftNouBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/Adapter-C5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/AdapterAplicatieVanzare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/AplicatieDepozit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/AplicatieVanzare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/IAplicatieDepozit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/IAplicatieVanzare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/Composite-B8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/ItemsMeniu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/SectiuneMeniu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/SectiuniMancaruriSiBauturi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/SubSectiuni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/Decorator-B7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/DecoratorAnNou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/DecoratorNotaDePlata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/INotaDePlata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/NotaDePlata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/Decorator-C7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/AbstractDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/DecoratorBonFiscal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/Farmacie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/IFarmacie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/Facade-A6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Medic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Salon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Spital.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1_Practice/Test1_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/Adapter-D5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A7_Decorator/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A7_Decorator/Main/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +68,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="package-info" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -97,11 +142,11 @@
       <recent name="$PROJECT_DIR$/Seminar2/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Seminar10" />
-      <recent name="$PROJECT_DIR$/Seminar10/State-A13/src" />
-      <recent name="$PROJECT_DIR$/Seminar9" />
-      <recent name="$PROJECT_DIR$/Seminar8" />
-      <recent name="$PROJECT_DIR$/Test1_Practice" />
+      <recent name="$PROJECT_DIR$/Seminar6/Facade-D7/src/classes" />
+      <recent name="$PROJECT_DIR$/Seminar6/Facade-D7/src/Main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes" />
+      <recent name="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Main" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Classes" />
@@ -124,8 +169,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="program.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="program.Main" />
+      <module name="A8_Composite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.program.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -159,6 +218,7 @@
       <workItem from="1715175868499" duration="1785000" />
       <workItem from="1715177663964" duration="919000" />
       <workItem from="1715178598010" duration="956000" />
+      <workItem from="1715608596338" duration="18866000" />
     </task>
     <task id="LOCAL-00001" summary="[main] Inceput seminar 2">
       <created>1709039010348</created>
@@ -273,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713877955335</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Final seminar 10">
+      <option name="closed" value="true" />
+      <created>1715608632357</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715608632357</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +370,7 @@
     <MESSAGE value="Finish studying for test" />
     <MESSAGE value="Final seminar 8" />
     <MESSAGE value="Final seminar 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final seminar 9" />
+    <MESSAGE value="Final seminar 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final seminar 10" />
   </component>
 </project>
