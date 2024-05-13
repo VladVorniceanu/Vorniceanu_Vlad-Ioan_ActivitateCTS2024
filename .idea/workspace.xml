@@ -5,59 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Final seminar 10">
-      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/CrediteLeasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/FrameworkCrediteLeasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes/ICrediteLeasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/Facade-D7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/src/classes/FacadeCreareCont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6/Facade-D7/src/classes/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/Adapter-A5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/AdapterMedicamente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/IMedicamentFarmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/IMedicamentSpital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/MedicamentFarmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-A5/src/Classes/MedicamentSpital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/Adapter-B5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/AdapterSoftNouBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/Factura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/FacturaBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/FacturaBucatarie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-B5/src/Classes/ISoftNouBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/Adapter-C5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/AdapterAplicatieVanzare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/AplicatieDepozit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/AplicatieVanzare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/IAplicatieDepozit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Adapter-C5/src/Classes/IAplicatieVanzare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/Composite-B8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/ItemsMeniu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/SectiuneMeniu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/SectiuniMancaruriSiBauturi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Classes/SubSectiuni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/Decorator-B7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/DecoratorAnNou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/DecoratorNotaDePlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/INotaDePlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-B7/src/Classes/NotaDePlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/Decorator-C7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/AbstractDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/DecoratorBonFiscal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/Farmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Decorator-C7/src/Classes/IFarmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/Facade-A6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Pacient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Salon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Facade-A6/src/Classes/Spital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7/A7_Decorator/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1_Practice/Test1_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar6/Adapter-D5/Adapter-D5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A7_Decorator/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A7_Decorator/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -153,7 +102,7 @@
       <recent name="SustinereExamene" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
