@@ -4,8 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Final seminar 10">
-      <change beforePath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test2_Practice/Composite-B8/src/Main/Main.java" afterDir="false" />
+    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Studying for test 2">
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/Flyweight-A10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/IPacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/PacientFlyweightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/Spitalizare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/Flyweight-B10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/Clients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/ClientsFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/IClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/Observer-D12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/Abonati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/AbonatiBanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/Banca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/Subiect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/Observer-F11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Abonati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Autobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Calatori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/MonitorTraficStb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Subiect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/Proxy-A9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/IInternare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/Internare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/ProxyInternare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/Proxy-C9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/IVanzareMedicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/ProxyVanzareMedicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/VanzareMedicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/State-F15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/Autobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/InCursa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/LaCapatDeLinie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/LaReparat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/Strategy-B11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/IModPlata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/Strategy-D11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/IProcesareDocumente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/PersoaneFizice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/PersoaneJuridice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/Template-B14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/src/Classes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/src/Classes/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/src/Classes/Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Probleme de rezolvat cu Design Patterns.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Probleme de rezolvat cu Design Patterns.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +69,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -102,7 +155,7 @@
       <recent name="SustinereExamene" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -133,8 +186,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.program.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.program.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715608632357</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Studying for test 2">
+      <option name="closed" value="true" />
+      <created>1715632708957</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715632708957</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +381,7 @@
     <MESSAGE value="Final seminar 8" />
     <MESSAGE value="Final seminar 9" />
     <MESSAGE value="Final seminar 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final seminar 10" />
+    <MESSAGE value="Studying for test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Studying for test 2" />
   </component>
 </project>
