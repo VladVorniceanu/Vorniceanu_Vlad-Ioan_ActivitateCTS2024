@@ -4,61 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Studying for test 2">
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/Flyweight-A10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/IPacient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/Pacient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/PacientFlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-A10/src/Classes/Spitalizare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/Flyweight-B10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/Clients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/ClientsFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Flyweight-B10/src/Classes/IClients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/Observer-D12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/Abonati.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/AbonatiBanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/Banca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-D12/src/Classes/Subiect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/Observer-F11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Abonati.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Autobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Calatori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/MonitorTraficStb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Observer-F11/src/Classes/Subiect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/Proxy-A9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/IInternare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/Internare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-A9/src/Classes/ProxyInternare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/Proxy-C9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/IVanzareMedicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/ProxyVanzareMedicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Proxy-C9/src/Classes/VanzareMedicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/State-F15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/Autobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/InCursa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/LaCapatDeLinie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/LaReparat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/State-F15/src/Classes/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/Strategy-B11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/Cash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-B11/src/Classes/IModPlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/Strategy-D11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/IProcesareDocumente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/PersoaneFizice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Strategy-D11/src/Classes/PersoaneJuridice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/Template-B14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/src/Classes/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/src/Classes/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test2_Practice/Template-B14/src/Classes/Template.java" afterDir="false" />
+    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="More studying for test 2...">
+      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/Persoana-Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/src/Classes/IPersoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/src/Classes/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/src/Classes/PersoanaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Probleme de rezolvat cu Design Patterns.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Probleme de rezolvat cu Design Patterns.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +24,7 @@
         <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -109,36 +62,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.program.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/CTS/SeminarCTS/Test1_Practice/A3_FactoryMethod/src/Classes&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/CTS/SeminarCTS/Seminar4/SimpleFactory2/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.main.Main.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.program.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PersoanaTest.executor": "Run",
+    "JUnit.PersoanaTest.getSex.executor": "Run",
+    "JUnit.PersoanaTest.getSexConformance1Char.executor": "Run",
+    "JUnit.PersoanaTest.getSexCrossCheckF.executor": "Run",
+    "JUnit.PersoanaTest.getSexCrossCheckM.executor": "Run",
+    "JUnit.PersoanaTest.getSexError.executor": "Run",
+    "JUnit.PersoanaTest.getSexErrorInvalidChar.executor": "Run",
+    "JUnit.PersoanaTest.getSexErrorNullString.executor": "Run",
+    "JUnit.PersoanaTest.getSexOrdering.executor": "Run",
+    "JUnit.PersoanaTest.getSexPerformance.executor": "Run",
+    "JUnit.PersoanaTest.getSexUpperRangeBound.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/CTS/SeminarCTS/Seminar11/Persoana-Testing/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/CTS/SeminarCTS/Seminar4/SimpleFactory2/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seminar11/Persoana-Testing/src" />
       <recent name="$PROJECT_DIR$/Test1_Practice/A3_FactoryMethod/src/Classes" />
       <recent name="$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_FactoryMethod/src/Classes" />
       <recent name="$PROJECT_DIR$/Seminar2/src" />
@@ -150,44 +122,105 @@
       <recent name="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes" />
       <recent name="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Main" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Classes" />
       <recent name="SustinereExamene" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Classes" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BazaDeDate.main.Main" />
-      <module name="Seminar3-Singleton" />
+    <configuration name="PersoanaTest.getSexConformance1Char" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Persoana-Testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BazaDeDate.main.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
+      <option name="METHOD_NAME" value="getSexConformance1Char" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="program.Main" />
-      <module name="A8_Composite" />
+    <configuration name="PersoanaTest.getSexError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Persoana-Testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="program.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
+      <option name="METHOD_NAME" value="getSexError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersoanaTest.getSexOrdering" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Persoana-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
+      <option name="METHOD_NAME" value="getSexOrdering" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersoanaTest.getSexPerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Persoana-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
+      <option name="METHOD_NAME" value="getSexPerformance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersoanaTest.getSexUpperRangeBound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Persoana-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
+      <option name="METHOD_NAME" value="getSexUpperRangeBound" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.program.Main" />
+        <item itemvalue="JUnit.PersoanaTest.getSexUpperRangeBound" />
+        <item itemvalue="JUnit.PersoanaTest.getSexOrdering" />
+        <item itemvalue="JUnit.PersoanaTest.getSexConformance1Char" />
+        <item itemvalue="JUnit.PersoanaTest.getSexPerformance" />
+        <item itemvalue="JUnit.PersoanaTest.getSexError" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +254,8 @@
       <workItem from="1715177663964" duration="919000" />
       <workItem from="1715178598010" duration="956000" />
       <workItem from="1715608596338" duration="18866000" />
+      <workItem from="1715926356533" duration="861000" />
+      <workItem from="1716293091659" duration="4406000" />
     </task>
     <task id="LOCAL-00001" summary="[main] Inceput seminar 2">
       <created>1709039010348</created>
@@ -351,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715632708957</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="More studying for test 2...">
+      <option name="closed" value="true" />
+      <created>1715683877791</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715683877791</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,6 +425,7 @@
     <MESSAGE value="Final seminar 9" />
     <MESSAGE value="Final seminar 10" />
     <MESSAGE value="Studying for test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Studying for test 2" />
+    <MESSAGE value="More studying for test 2..." />
+    <option name="LAST_COMMIT_MESSAGE" value="More studying for test 2..." />
   </component>
 </project>
