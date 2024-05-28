@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="More studying for test 2...">
-      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/Persoana-Testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/src/Classes/IPersoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/src/Classes/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11/Persoana-Testing/src/Classes/PersoanaTest.java" afterDir="false" />
+    <list default="true" id="64013bec-6868-4409-a564-fad7c7f4cca0" name="Changes" comment="Seminar 11 Unit Tests">
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/Testing2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Classes/AgentieTurism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Classes/IPersoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Classes/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Classes/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Teste/Categorii/Mock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Teste/Categorii/WithoutMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Teste/Dubluri/ClientFake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Teste/PachetTuristicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Teste/PersoanaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Teste/Suite/SuitaCompleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar12/Testing2/src/Teste/Suite/SuitaCustom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,8 +31,9 @@
         <option value="Enum" />
         <option value="package-info" />
         <option value="Interface" />
-        <option value="Class" />
+        <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -71,6 +80,10 @@
     "Application.main.executor": "Run",
     "Application.program.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PachetTuristicTest.aplicaDiscountBoundary.executor": "Run",
+    "JUnit.PachetTuristicTest.aplicaDiscountFalsVarstaFake.executor": "Run",
+    "JUnit.PachetTuristicTest.aplicaDiscountVarstaFake.executor": "Run",
+    "JUnit.PachetTuristicTest.aplicaDiscountVarstniciCorectitudine.executor": "Run",
     "JUnit.PersoanaTest.executor": "Run",
     "JUnit.PersoanaTest.getSex.executor": "Run",
     "JUnit.PersoanaTest.getSexConformance1Char.executor": "Run",
@@ -82,6 +95,8 @@
     "JUnit.PersoanaTest.getSexOrdering.executor": "Run",
     "JUnit.PersoanaTest.getSexPerformance.executor": "Run",
     "JUnit.PersoanaTest.getSexUpperRangeBound.executor": "Run",
+    "JUnit.SuitaCompleta.executor": "Run",
+    "JUnit.SuitaCustom.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -90,6 +105,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "11",
@@ -116,111 +132,111 @@
       <recent name="$PROJECT_DIR$/Seminar2/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seminar12/Testing2/src" />
       <recent name="$PROJECT_DIR$/Seminar6/Facade-D7/src/classes" />
       <recent name="$PROJECT_DIR$/Seminar6/Facade-D7/src/Main" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Classes" />
-      <recent name="$PROJECT_DIR$/Seminar6/Adapter-D5/src/Main" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Teste" />
       <recent name="Classes" />
       <recent name="SustinereExamene" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Classes" />
+      <recent name="Teste" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="PersoanaTest.getSexConformance1Char" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Persoana-Testing" />
+  <component name="RunManager" selected="JUnit.SuitaCustom">
+    <configuration name="PachetTuristicTest.aplicaDiscountBoundary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Classes" />
-      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexConformance1Char" />
+      <option name="PACKAGE_NAME" value="Teste" />
+      <option name="MAIN_CLASS_NAME" value="Teste.PachetTuristicTest" />
+      <option name="METHOD_NAME" value="aplicaDiscountBoundary" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Persoana-Testing" />
+    <configuration name="PachetTuristicTest.aplicaDiscountFalsVarstaFake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Classes" />
-      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexError" />
+      <option name="PACKAGE_NAME" value="Teste" />
+      <option name="MAIN_CLASS_NAME" value="Teste.PachetTuristicTest" />
+      <option name="METHOD_NAME" value="aplicaDiscountFalsVarstaFake" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexOrdering" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Persoana-Testing" />
+    <configuration name="PachetTuristicTest.aplicaDiscountVarstaFake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Classes" />
-      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexOrdering" />
+      <option name="PACKAGE_NAME" value="Teste" />
+      <option name="MAIN_CLASS_NAME" value="Teste.PachetTuristicTest" />
+      <option name="METHOD_NAME" value="aplicaDiscountVarstaFake" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexPerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Persoana-Testing" />
+    <configuration name="SuitaCompleta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Teste.Suite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Classes" />
-      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexPerformance" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Teste.Suite" />
+      <option name="MAIN_CLASS_NAME" value="Teste.Suite.SuitaCompleta" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexUpperRangeBound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Persoana-Testing" />
+    <configuration name="SuitaCustom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Teste.Suite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Classes" />
-      <option name="MAIN_CLASS_NAME" value="Classes.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexUpperRangeBound" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Teste.Suite" />
+      <option name="MAIN_CLASS_NAME" value="Teste.Suite.SuitaCustom" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PersoanaTest.getSexUpperRangeBound" />
-        <item itemvalue="JUnit.PersoanaTest.getSexOrdering" />
-        <item itemvalue="JUnit.PersoanaTest.getSexConformance1Char" />
-        <item itemvalue="JUnit.PersoanaTest.getSexPerformance" />
-        <item itemvalue="JUnit.PersoanaTest.getSexError" />
+        <item itemvalue="JUnit.SuitaCustom" />
+        <item itemvalue="JUnit.SuitaCompleta" />
+        <item itemvalue="JUnit.PachetTuristicTest.aplicaDiscountFalsVarstaFake" />
+        <item itemvalue="JUnit.PachetTuristicTest.aplicaDiscountVarstaFake" />
+        <item itemvalue="JUnit.PachetTuristicTest.aplicaDiscountBoundary" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +271,8 @@
       <workItem from="1715178598010" duration="956000" />
       <workItem from="1715608596338" duration="18866000" />
       <workItem from="1715926356533" duration="861000" />
-      <workItem from="1716293091659" duration="4406000" />
+      <workItem from="1716293091659" duration="4652000" />
+      <workItem from="1716897561469" duration="3840000" />
     </task>
     <task id="LOCAL-00001" summary="[main] Inceput seminar 2">
       <created>1709039010348</created>
@@ -394,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715683877791</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Seminar 11 Unit Tests">
+      <option name="closed" value="true" />
+      <created>1716297660816</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716297660816</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +451,7 @@
     <MESSAGE value="Final seminar 10" />
     <MESSAGE value="Studying for test 2" />
     <MESSAGE value="More studying for test 2..." />
-    <option name="LAST_COMMIT_MESSAGE" value="More studying for test 2..." />
+    <MESSAGE value="Seminar 11 Unit Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar 11 Unit Tests" />
   </component>
 </project>
